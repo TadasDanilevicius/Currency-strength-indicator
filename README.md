@@ -1,0 +1,1 @@
+# Currency-strength-indicator
