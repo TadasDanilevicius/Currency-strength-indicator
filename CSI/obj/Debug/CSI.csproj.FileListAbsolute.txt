@@ -1,0 +1,12 @@
+C:\Users\Tadas\source\repos\CSI\CSI\bin\Debug\CSI.exe.config
+C:\Users\Tadas\source\repos\CSI\CSI\bin\Debug\CSI.exe
+C:\Users\Tadas\source\repos\CSI\CSI\bin\Debug\CSI.pdb
+C:\Users\Tadas\source\repos\CSI\CSI\obj\Debug\CSI.Form1.resources
+C:\Users\Tadas\source\repos\CSI\CSI\obj\Debug\CSI.Properties.Resources.resources
+C:\Users\Tadas\source\repos\CSI\CSI\obj\Debug\CSI.csproj.GenerateResource.cache
+C:\Users\Tadas\source\repos\CSI\CSI\obj\Debug\CSI.csproj.CoreCompileInputs.cache
+C:\Users\Tadas\source\repos\CSI\CSI\obj\Debug\CSI.exe
+C:\Users\Tadas\source\repos\CSI\CSI\obj\Debug\CSI.pdb
+C:\Users\Tadas\source\repos\CSI\CSI\obj\Debug\CSI.csproj.AssemblyReference.cache
+C:\Users\Tadas\source\repos\CSI\CSI\bin\Debug\MQL bridge.cs
+C:\Users\Tadas\source\repos\CSI\CSI\obj\Debug\CSI.csproj.SuggestedBindingRedirects.cache
