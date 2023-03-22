@@ -2,12 +2,13 @@
 Ši aplikacija leidžia gyvai stebėti žaliavų bei valiutų procentinius kainų pokyčius su sudarytu instrumentų indeksu. Vietoj to, kad stebėtume vieną ar kelias valiutų poras, šis įrankis leidžia stebėti kainų pokytį su savo nuožiūra sudarytu indeksų. Galimybė, gyvai matyti kas vyksta individualiai su kiekviena valiuta, atveria naują žvilgsnį į forex rinką. Šiuo būdu galima stebėti tiek trendus, tiek rizikingas overbought/oversold teritorijas.
 
 # Naudojimosi taisyklės
-1) Aplikacijai veikti būtina Metatrader 4 platforma, nes ji teikia duomenis aplikacijai.
-2) Metatrader 4 platformoje reikia paleisti indikatorių (Currency strength indicator.ex5)
+1) Aplikacijai veikti būtina Metatrader platforma, nes ji teikia duomenis aplikacijai.
+2) Metatrader platformoje reikia paleisti indikatorių (C#_handle, skirtingi failai 4 ir 5 versijoms)
 
-# Sąsaja su Metatrader platforma
+# C#_handle sąsaja su Metatrader platforma
 mql kodas Metatrader platformoje irašo nurodytus symbolių duomenis į atskirus *\*.csv* failus ir nuolatos atnaujina informaciją.
-faile įrašomos vieno candlestick kainos *Low High Open Close* ir data.
+![alt text](https://github.com/TadasDanilevicius/Currency-strength-indicator/blob/main/data%20files.png)
+<br><br>faile įrašomos vieno candlestick kainos *Low High Open Close* ir data.
 <br><img src="https://github.com/TadasDanilevicius/Currency-strength-indicator/blob/main/eurjpy.png" alt="" data-canonical-src="https://github.com/TadasDanilevicius/Currency-strength-indicator/blob/main/eurjpy.png" width="25%" height="auto"/>
 # Kaip veikia programa
 Nustatymuose ("S" mygtukas) "basket currency" lange galima pridėti valiutų symbolius ir nustatyti jų svorį **w<sub>i</sub>** sudarytame portfolio, kur svorių suma lygi **Σw<sub>i</sub>** Pvz.:
