@@ -1,5 +1,5 @@
 # Currency strength indicator (CSI)
-Ši aplikacija leidžia gyvai stebėti žaliavų bei valiutų procentinius kainų pokyčius su sudarytu instrumentų indeksu. Vietoj to, kad stebėtume vieną ar kelias valiutų poras, šis įrankis leidžia stebėti kainų pokytį su savo nuožiūra sudarytu indeksų. Galimybė, gyvai matyti kas vyksta individualiai su kiekviena valiuta, atveria naują žvilgsnį į forex rinką. Šiuo būdu galima stebėti tiek trendus, tiek rizikingas overbought/oversold teritorijas.
+Ši aplikacija leidžia gyvai stebėti žaliavų bei valiutų procentinius kainų pokyčius palyginus su sudarytu instrumentų indeksu. Vietoj to, kad stebėtume vieną ar kelias valiutų poras, šis įrankis leidžia stebėti kainų pokytį su savo nuožiūra sudarytu indeksų. Galimybė, gyvai matyti kas vyksta individualiai su kiekviena valiuta, atveria naują žvilgsnį į forex rinką. Šiuo būdu galima stebėti tiek trendus, tiek rizikingas overbought/oversold teritorijas.
 
 # Naudojimosi taisyklės
 1) Aplikacijai veikti būtina Metatrader platforma, nes ji teikia duomenis aplikacijai.
